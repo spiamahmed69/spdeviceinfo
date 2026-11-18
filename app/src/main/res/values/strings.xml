@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SP Device Info</string>
+    <string name="tagline">All real info about this device — no guessing</string>
+    <string name="search_hint">Search details — e.g. battery, cpu, sensor…</string>
+    <string name="refresh">Refresh</string>
+    <string name="copy">Copy report</string>
+    <string name="share">Share</string>
+    <string name="export">Export .txt</string>
+</resources>
